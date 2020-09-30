@@ -2,7 +2,7 @@ use sys;
 drop database SchoolDB;
 
 create database SchoolDB;
-use school;
+use SchoolDB;
 
 create table Courses (
 	id int,
