@@ -1,0 +1,7 @@
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.exe.config
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.exe
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.pdb
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\PhoneProject.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\PhoneProject.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.exe
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.pdb

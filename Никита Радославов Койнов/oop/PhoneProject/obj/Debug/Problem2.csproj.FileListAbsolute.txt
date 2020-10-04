@@ -1,0 +1,14 @@
+C:\Users\nikic\source\repos\Problem2\obj\Debug\Problem2.csprojAssemblyReference.cache
+C:\Users\nikic\source\repos\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\nikic\source\repos\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\nikic\source\repos\Problem2\bin\Debug\Problem2.exe
+C:\Users\nikic\source\repos\Problem2\bin\Debug\Problem2.pdb
+C:\Users\nikic\source\repos\Problem2\obj\Debug\Problem2.exe
+C:\Users\nikic\source\repos\Problem2\obj\Debug\Problem2.pdb
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.exe.config
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.exe
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\bin\Debug\Problem2.pdb
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.exe
+C:\School\Main\Никита Радославов Койнов\oop\Problem2\obj\Debug\Problem2.pdb
