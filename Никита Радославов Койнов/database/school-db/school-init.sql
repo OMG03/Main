@@ -33,14 +33,12 @@ create table Teachers (
     constraint PK_Teachers primary key (id)
 );
 
--- drop table TeachersCourses;
--- [ISSUE] does not add foreign key to the first column of the primary key
 create table TeachersCourses (
 	teacherId int,
     courseId int,
+	constraint FK_TeachersCourses_Teachers foreign key (teacherId) references Teachers(id),
+    constraint FK_TeachersCourses_Courses foreign key (courseId) references Courses(id),
     constraint PK_TeachersCourses primary key (teacherId, courseId)
-	-- constraint FK_TeachersCourses_Teachers foreign key (teacherId) references Teachers(id),
-    -- constraint FK_TeachersCourses_Courses foreign key (courseId) references Courses(id)
 );
 
 create table SubjectType (
