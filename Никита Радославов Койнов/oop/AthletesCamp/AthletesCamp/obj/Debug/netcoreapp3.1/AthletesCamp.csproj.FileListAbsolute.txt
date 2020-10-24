@@ -1,0 +1,26 @@
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.exe
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.deps.json
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.runtimeconfig.json
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.runtimeconfig.dev.json
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.dll
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.pdb
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.csprojAssemblyReference.cache
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.AssemblyInfoInputs.cache
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.AssemblyInfo.cs
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.csproj.CoreCompileInputs.cache
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.dll
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.pdb
+C:\Users\nikic\source\repos\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.genruntimeconfig.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.exe
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.dll
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\bin\Debug\netcoreapp3.1\AthletesCamp.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.dll
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\AthletesCamp\obj\Debug\netcoreapp3.1\AthletesCamp.genruntimeconfig.cache
