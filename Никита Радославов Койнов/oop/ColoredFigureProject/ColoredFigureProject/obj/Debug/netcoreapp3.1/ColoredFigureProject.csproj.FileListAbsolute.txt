@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.exe
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.dll
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\bin\Debug\netcoreapp3.1\ColoredFigureProject.pdb
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.dll
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.pdb
+C:\School\Main\Никита Радославов Койнов\oop\ColoredFigureProject\ColoredFigureProject\obj\Debug\netcoreapp3.1\ColoredFigureProject.genruntimeconfig.cache
