@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.exe
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.dll
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\bin\Debug\netcoreapp3.1\AnimalKingdom.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.dll
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AnimalKingdom\AnimalKingdom\obj\Debug\netcoreapp3.1\AnimalKingdom.genruntimeconfig.cache
