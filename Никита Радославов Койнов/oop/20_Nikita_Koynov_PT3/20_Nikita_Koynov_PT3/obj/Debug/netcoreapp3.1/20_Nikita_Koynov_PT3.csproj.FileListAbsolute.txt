@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.exe
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.dll
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\bin\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.pdb
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.dll
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.pdb
+C:\School\Main\Никита Радославов Койнов\oop\20_Nikita_Koynov_PT3\20_Nikita_Koynov_PT3\obj\Debug\netcoreapp3.1\20_Nikita_Koynov_PT3.genruntimeconfig.cache

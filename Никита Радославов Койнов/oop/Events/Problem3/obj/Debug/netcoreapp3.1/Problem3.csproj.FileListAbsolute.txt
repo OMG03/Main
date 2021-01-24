@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.exe
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.dll
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\bin\Debug\netcoreapp3.1\Problem3.pdb
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.dll
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.pdb
+C:\School\Main\Никита Радославов Койнов\oop\Events\Problem3\obj\Debug\netcoreapp3.1\Problem3.genruntimeconfig.cache

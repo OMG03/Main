@@ -1,0 +1,12 @@
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+C:\School\Main\Никита Радославов Койнов\oop\AthletesCamp\Comparators\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache

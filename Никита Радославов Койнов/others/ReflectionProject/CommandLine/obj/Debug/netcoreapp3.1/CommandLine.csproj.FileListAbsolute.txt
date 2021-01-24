@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.exe
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.deps.json
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\bin\Debug\netcoreapp3.1\CommandLine.pdb
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.dll
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.pdb
+C:\School\Main\Никита Радославов Койнов\others\ReflectionProject\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.genruntimeconfig.cache

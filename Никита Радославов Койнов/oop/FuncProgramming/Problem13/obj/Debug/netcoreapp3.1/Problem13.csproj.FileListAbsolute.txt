@@ -1,0 +1,13 @@
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.exe
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.deps.json
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.runtimeconfig.json
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.runtimeconfig.dev.json
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.dll
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\bin\Debug\netcoreapp3.1\Problem13.pdb
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.csprojAssemblyReference.cache
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.AssemblyInfoInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.AssemblyInfo.cs
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.csproj.CoreCompileInputs.cache
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.dll
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.pdb
+C:\School\Main\Никита Радославов Койнов\oop\FuncProgramming\Problem13\obj\Debug\netcoreapp3.1\Problem13.genruntimeconfig.cache
